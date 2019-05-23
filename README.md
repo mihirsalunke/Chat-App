@@ -1,5 +1,6 @@
 # Chat App
 
+* download the repo
 * go to `chat` folder
 * `npm install` the application will be ready to use
 * `node server.js` will begin the server
